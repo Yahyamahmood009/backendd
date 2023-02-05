@@ -1,0 +1,113 @@
+.main2-div1 {
+    border: 1px solid rgb(113, 125, 125);
+    border-radius: 5px;
+    height: auto;
+    width: 50%;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.login-main-logo {
+    /* border: 1px solid black; */
+    margin-top: 3%;
+    height: auto;
+    width: 80%;
+}
+.login-main-logo1 {
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title {
+    /* border: 1px solid black; */
+    height: auto;
+    width: 80%;
+    text-align: center;
+    font-size: x-large;
+    color: rgb(8, 81, 154);
+}
+.login {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    /* border: 1px solid black; */
+    height: auto;
+    width: 80%;
+    text-align: center;
+    font-size: x-large;
+}
+.login-main-div2 {
+    width: 90%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.doctor {
+    width: 30%;
+    height: auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.doc_logo {
+    width: 50%;
+    height: 70%;
+}
+.btn {
+    margin-top: 15px;
+    width: 30%;
+    height: 20%;
+    font-size: 100%;
+    background-color: rgb(18, 85, 152);
+    color: white;
+    border-radius: 20px;
+}
+.btn:hover {
+    color: rgb(18, 85, 152);
+    background-color: white;
+}
+.patient {
+    width: 30%;
+    height: auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pat_logo {
+    width: 60%;
+    height: 70%;
+}
+.admin {
+    width: 30%;
+    height: auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ad_logo {
+    width: 30%;
+    height: 60%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+  }
+  a:hover{
+   color: dodgerblue;
+    
+
+  }
+  
+  
